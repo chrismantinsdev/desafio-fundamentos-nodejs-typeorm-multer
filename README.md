@@ -7,7 +7,7 @@
 <blockquote align="center">“Só deseje as coisas as quais você está disposto a lutar”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/chrismantinsdev/desafio-fundamentos-backend-typeorm?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/chrismantinsdev/desafio-fundamentos-nodejs-typeorm-multer?color=%2304D361">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
